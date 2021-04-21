@@ -1,0 +1,6 @@
+test/caesar.test.js
+test/caesar.submission.test.js
+test/substitution.test.js
+test/polybius.test.js
+test/substitution.submission.test.js
+test/polybius.submission.test.js
